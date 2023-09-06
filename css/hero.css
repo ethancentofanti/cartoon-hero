@@ -3,7 +3,6 @@ body{
 	margin: 0;
 	font-family: 'Arial', 'sans-serif;';
 	font-size: 21px;
-	line-height: 28px;
 }
 
 /* header styles */
@@ -18,7 +17,6 @@ header{
 h1, h2{
 	font-family: 'Anton', sans-serif;
 	letter-spacing: 2px;
-	line-height: 60px;
 }
 
 header h1{
